@@ -1,5 +1,5 @@
-# Dates - Etude 1 
-Author: Dan Skaf
+# Dates
+
 Writen and tested using: Java - `OpenJDK 14`
 To compile the code use the command
 `javac dates.java` followed by `java dates` to run the program
